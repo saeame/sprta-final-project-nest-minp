@@ -40,7 +40,7 @@
 
 
 
-</br>
+</br></br>
 ### 🏠 배포 주소
 > https://mooin-cat.herokuapp.com
 
@@ -350,7 +350,23 @@ final-project
 
 
 
+
 </br></br>
+</br>
+### 🗣️사용자 피드백
+<img width="898" alt="스크린샷 2023-04-11 오후 2 00 33" src="https://user-images.githubusercontent.com/113442424/231061328-e999b838-8d18-4c04-b046-2733a0ae24c2.png">
+<img width="899" alt="스크린샷 2023-04-11 오후 2 01 03" src="https://user-images.githubusercontent.com/113442424/231061354-058b30c3-88b2-4ba7-b969-0d5a170e61cd.png">
+
+</br></br>
+### ☀️트러블 슈팅
+<img width="901" alt="스크린샷 2023-04-11 오후 2 10 05" src="https://user-images.githubusercontent.com/113442424/231062148-7cb2973e-4863-47e0-a604-b28004ce4bd7.png">
+<img width="903" alt="스크린샷 2023-04-11 오후 2 10 09" src="https://user-images.githubusercontent.com/113442424/231062225-a8ddfa52-894e-4daf-89ce-9e14d5fd85bd.png">
+<img width="902" alt="스크린샷 2023-04-11 오후 2 10 14" src="https://user-images.githubusercontent.com/113442424/231062249-435067d1-a519-43e6-97ef-a22f92474ada.png">
+<img width="903" alt="스크린샷 2023-04-11 오후 2 10 24" src="https://user-images.githubusercontent.com/113442424/231062274-2fd2521b-4db1-40bd-859b-acc7c5649bf1.png">
+<img width="903" alt="스크린샷 2023-04-11 오후 2 10 19" src="https://user-images.githubusercontent.com/113442424/231062282-a3ae97e9-6088-4143-9848-929019b59eff.png">
+
+
+
 ## ⭐ **주요 기술 및 기능**
 </br>
 
