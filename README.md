@@ -77,7 +77,7 @@
 
 </br>
 
-![image](https://user-images.githubusercontent.com/113442424/231059758-fef24736-1f10-487a-8a5a-08305a1bd05c.png)
+![스크린샷 2023-03-29 오후 1 39 18](https://user-images.githubusercontent.com/113442424/231062561-e5c1e224-6e91-43cd-97a7-8b4f780ec412.png)
 </br></br>
 
 ### 🗂 디렉토리 구조
