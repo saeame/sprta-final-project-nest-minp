@@ -71,13 +71,14 @@
 </br></br>
 
 ## 🚧 **아키텍처**
-<p align="center">
+<p >
   <img src="https://file.notion.so/f/s/730f7c44-3b4b-4bd1-85d4-b6e10d595d5f/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-03-27_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_6.21.13.png?id=7cc49e8a-60a9-4d80-a42b-9c06eba4a4d2&table=block&spaceId=ab806378-25f9-4a80-a2a3-8688c62617df&expirationTimestamp=1680138836969&signature=Nm55Adx6sHq5jnCdGOxnPJaDJXvHTNM3QhT-Xc4HCjI&downloadName=%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2023-03-27+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+6.21.13.png" width="800"/>
 </p>
-
 </br>
+</br></br>
 
-![스크린샷 2023-03-29 오후 1 39 18](https://user-images.githubusercontent.com/113442424/231062561-e5c1e224-6e91-43cd-97a7-8b4f780ec412.png)
+![스크린샷 2023-03-29 오후 1 39 18](https://user-images.githubusercontent.com/113442424/231063087-1015883d-8248-4399-ad72-afb9916ac7aa.png)
+
 </br></br>
 
 ### 🗂 디렉토리 구조
